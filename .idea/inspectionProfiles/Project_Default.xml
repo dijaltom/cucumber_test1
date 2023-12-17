@@ -6,16 +6,19 @@
       <option name="ignoredModules">
         <list>
           <option value="project-a" />
+          <option value="cucumber_1" />
         </list>
       </option>
       <option name="ignoredPackages">
         <list>
+          <option value="org.webjars:jquery:3.6.1" />
           <option value="org.webjars:jquery:3.6.1" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
           <option value="In progress" />
+          <option value="Not exploitable" />
         </list>
       </option>
     </inspection_tool>
