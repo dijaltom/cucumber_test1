@@ -1,0 +1,1 @@
+It's developed to help testers for installing dependencies simply, no need to add all dependencies in the pom.xml file, you guys can add this to reduce the tags in pom.xml, will relese further more versions in upcoming days, this is just for a test
