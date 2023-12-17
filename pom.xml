@@ -4,8 +4,8 @@
   <groupId>com.dijal</groupId>
   <artifactId>cucumber_1</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.1</version>
-  <name>project-a</name>
+  <version>1.0.2</version>
+  <name>cucumber_1</name>
   <url>http://maven.apache.org</url>
   <build>
     <plugins>
@@ -20,7 +20,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
     <dependency>
