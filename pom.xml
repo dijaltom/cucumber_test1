@@ -4,7 +4,7 @@
   <groupId>com.dijal</groupId>
   <artifactId>cucumber_1</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.2</version>
+  <version>1.0.4</version>
   <name>cucumber_1</name>
   <url>http://maven.apache.org</url>
   <build>
@@ -32,6 +32,11 @@
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
       <version>7.7.0</version>
+    </dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.17</version>
     </dependency>
   </dependencies>
   <!-- Example dependency -->
